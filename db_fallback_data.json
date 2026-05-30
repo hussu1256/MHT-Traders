@@ -1,0 +1,36 @@
+{
+  "catalogs": [
+    {
+      "_id": "cat_1780126979485",
+      "name": "test-upload.pdf",
+      "filePath": "/uploads/1780126977577-test-upload.pdf",
+      "uploadDate": "2026-05-30T07:42:59.485Z",
+      "createdAt": "2026-05-30T07:42:59.485Z",
+      "updatedAt": "2026-05-30T07:42:59.485Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "prod_1780126979493_0_823",
+      "name": "test High-Tensile Steel Bolts",
+      "model": "HTB-01",
+      "price": 750,
+      "description": "Extracted from catalog metadata due to unreadable PDF format. High performance heavy duty fasteners.",
+      "catalogId": "cat_1780126979485",
+      "page": 1,
+      "createdAt": "2026-05-30T07:42:59.493Z",
+      "updatedAt": "2026-05-30T07:42:59.493Z"
+    },
+    {
+      "_id": "prod_1780126979493_1_696",
+      "name": "test Cordless Screwdriver",
+      "model": "EES-12",
+      "price": 3499,
+      "description": "Extracted from catalog metadata due to unreadable PDF format. Variable torque cordless tool.",
+      "catalogId": "cat_1780126979485",
+      "page": 1,
+      "createdAt": "2026-05-30T07:42:59.493Z",
+      "updatedAt": "2026-05-30T07:42:59.493Z"
+    }
+  ]
+}

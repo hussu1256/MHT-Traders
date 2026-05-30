@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra Traders Catalog Search",
+  "description": "A hardware catalog search system. Upload catalog PDFs to extract product information, manage, and search hardware products with pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
